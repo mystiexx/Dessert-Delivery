@@ -1,0 +1,70 @@
+.navbar {
+  background: linear-gradient(to right, rgb(223, 92, 31), rgb(211, 150, 19));
+}
+
+#banner {
+  background-image:  url('../component/images/ice.jpg');
+  background-position: center;
+  background-size: cover;
+  color: black;
+  padding-top: 5%;
+}
+
+.addon{
+  background: linear-gradient(to right, rgb(223, 92, 31), rgb(211, 150, 19));
+  color: white;
+}
+
+.image-text{
+  background: rgba(36, 36, 36, 0.5);
+  margin-top: 35%;
+  border-radius: 25px;
+  color: white;
+}
+.image-button{
+  background: rgba(230, 229, 229, 0.5);
+}
+
+.promo-title {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 100px;
+}
+
+.bottom-img {
+  width: 100%;
+  margin-top: 5%;
+}
+
+.details {
+  padding: 8px 22px;
+}
+.img-story {
+  height: 170px;
+}
+
+.cake {
+  width: 300px;
+  height: 300px;;
+}
+
+.delete:hover{
+ cursor: pointer;
+ color: red;
+}
+
+.cart-img {
+ width: 100px;
+ height: 100px;
+ border-radius: 50px;
+ background-color: black;
+}
+
+.Card-box{
+  width: 18rem;
+}
+
+.footer {
+  font-size: 16px;
+  font-weight: bold;
+}
